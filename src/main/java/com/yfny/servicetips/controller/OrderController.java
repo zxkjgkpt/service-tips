@@ -1,7 +1,7 @@
 package com.yfny.servicetips.controller;
 
 
-import com.yfny.corepojo.entity.OrderEntity;
+import com.yfny.corepojo.entity.demo.OrderEntity;
 import com.yfny.servicetips.service.OrderServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

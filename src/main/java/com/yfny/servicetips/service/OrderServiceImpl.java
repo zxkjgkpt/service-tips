@@ -1,7 +1,7 @@
 package com.yfny.servicetips.service;
 
 import com.codingapi.txlcn.tc.annotation.LcnTransaction;
-import com.yfny.corepojo.entity.OrderEntity;
+import com.yfny.corepojo.entity.demo.OrderEntity;
 import com.yfny.servicetips.mapper.OrderMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
